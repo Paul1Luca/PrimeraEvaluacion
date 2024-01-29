@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2c12e8c-b9c3-4598-8711-abfc38550425" name="Changes" comment="Ejercicios Arrays.">
-      <change afterPath="$PROJECT_DIR$/src/Repe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EJ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EJ6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EJ7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EJ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EJ4">
-    <configuration name="EJ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EJ2" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EJ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EJ3" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EJ7">
     <configuration name="EJ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EJ4" />
       <module name="Arrays" />
@@ -69,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ej1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej1" />
+    <configuration name="EJ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EJ5" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EJ6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EJ6" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EJ7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EJ7" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EJ4" />
+        <item itemvalue="Application.EJ7" />
         <item itemvalue="Application.Repe" />
-        <item itemvalue="Application.EJ3" />
-        <item itemvalue="Application.EJ2" />
-        <item itemvalue="Application.Ej1" />
+        <item itemvalue="Application.EJ6" />
+        <item itemvalue="Application.EJ5" />
+        <item itemvalue="Application.EJ4" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +107,7 @@
       <workItem from="1705404291711" duration="669000" />
       <workItem from="1706001950063" duration="2619000" />
       <workItem from="1706188704284" duration="3077000" />
-      <workItem from="1706528587684" duration="1310000" />
+      <workItem from="1706528587684" duration="2793000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios Arrays.">
       <option name="closed" value="true" />
@@ -131,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706191791803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicios Arrays.">
+      <option name="closed" value="true" />
+      <created>1706529991872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706529991872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
