@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="496432bc-cabd-4344-b26e-1ac1cdad8239" name="Changes" comment="Ejercicios Bucles." />
+    <list default="true" id="496432bc-cabd-4344-b26e-1ac1cdad8239" name="Changes" comment="Ejercicios Bucles.">
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EJ1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2b2DEotpTK938mfHscLtDxJZSda" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/1dam/Desktop/PrimeraEvaluacion/Bucles/src",
+    "last_opened_file_path": "C:/Users/1dam/Desktop/PrimeraEvaluacion/Strings",
     "onboarding.tips.debug.path": "C:/Users/1dam/Desktop/PrimeraEvaluacion/Bucles/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -43,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705404171560</updated>
       <workItem from="1705404172580" duration="117000" />
+      <workItem from="1706689520112" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios Bucles.">
       <option name="closed" value="true" />
